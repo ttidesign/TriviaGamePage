@@ -16,7 +16,6 @@ function GameComponent() {
 	const [userCorrectedAnswer, setUserCorrectedAnswer] = useState([]);
 
 	//function to fetch questions from api
-	console.log('render game component')
 	const fetchQuestionsAPI = async () => {
 		const url =
 			'https://opentdb.com/api.php?amount=10&difficulty=hard&type=boolean';

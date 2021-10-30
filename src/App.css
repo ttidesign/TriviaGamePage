@@ -8,7 +8,7 @@ body {
 }
 .title {
 	margin-top: 50px;
-	margin-bottom: 100px;
+	margin-bottom: 80px;
 }
 .intro-text {
 	font-size: 23px;
@@ -62,8 +62,8 @@ body {
 		font-size: 20px;
 	}
 	.general-button {
-		width: 120px;
-		height: 30px;
+		width: 150px;
+		height: 40px;
 		font-size: 16px;
 		margin: 5px;
 	}
