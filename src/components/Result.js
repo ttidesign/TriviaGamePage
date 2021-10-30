@@ -18,10 +18,9 @@ function Result(props) {
 								</p>
 								<p>
 									
-									-Your answer is:
+									-Your answer is: 
 									<span className={question.is_correct}>
-										
-										{question.is_correct}
+										 {' ' + question.is_correct}
 									</span>
 								</p>
 							</div>
